@@ -1,0 +1,23 @@
+{
+  "name": "practice-redgreenrefactor-savion-j",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Savionrj/practice-redGreenRefactor-savion-j.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Savionrj/practice-redGreenRefactor-savion-j/issues"
+  },
+  "homepage": "https://github.com/Savionrj/practice-redGreenRefactor-savion-j#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
